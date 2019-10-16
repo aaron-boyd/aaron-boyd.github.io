@@ -1,8 +1,8 @@
-title: Aaron Boyd # your name (or website title) here
-logo: "images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  I am a third year computer science student at the University of Cincinnati.
-  <br><br>
+#title: Aaron Boyd # your name (or website title) here
+#logo: "images/logo.png?raw=true" # your photo (or logo) here
+#description: > # your text below (remove <br> elements if you don't need line breaks)
+#  I am a third year computer science student at the University of Cincinnati.
+#  <br><br>
   
 theme: jekyll-theme-hacker
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
