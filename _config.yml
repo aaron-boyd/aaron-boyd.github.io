@@ -4,5 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am a third year computer science student at the University of Cincinnati.
   <br><br>
   
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+remote_theme: aaron-boyd/jasper
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
