@@ -9,3 +9,5 @@
  </video>
 
 ![Rangemaster command example](/images/range_master_demo.png "Rangemaster command example")
+
+<img src="/images/range_master_demo.png" alt="Italian Trulli">
