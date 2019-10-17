@@ -15,6 +15,8 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 ---
 
 ## Projects
+[Rangemaster](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
