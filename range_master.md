@@ -25,6 +25,7 @@ Rangemaster is monolithic cyber range application written in python. It utilizes
 
 1216 x 508
 <img src="/images/range_master_demo.png" alt="Rangemaster command examples" width="800" height="334"> 
+![Rangemaster command examples](/images/range_master_demo.png "Rangemaster commande examples")
 
 Rangemaster uses `silos` which act as a storage container for virtual machine images and `servers` to run those images.  
 
@@ -34,7 +35,7 @@ Rangemaster uses `silos` which act as a storage container for virtual machine im
 
 This video demonstrates taking a machine image `debian10.0_headless` from a silo and deploying it on a server.
 
-<video width='800' height='750' autoplay>
+<video autoplay>
 <source src="videos/range_master_demo_deploy.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
