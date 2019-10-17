@@ -40,4 +40,4 @@ This video demonstrates taking a machine image `debian10.0_headless` from a silo
 
 <br>
 
-<a href='/index'>Back</a>
+<a href='/index'>Home</a>
