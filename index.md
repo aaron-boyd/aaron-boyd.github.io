@@ -9,7 +9,7 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 #### Northrop Grumman - Cyber Software COOP (Fall 2018)
 - Worked with a development team for internal software development
 
-#### Northrop Grumman - Cyber Software COOP (Fall 2019)
+#### Northrop Grumman - Cyber Software COOP (Summer 2019)
 - Gained experience in working on government software contracts
 
 ---
