@@ -8,7 +8,7 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 
 <p>
   <a href="/experience/northrop_grumman">
-    <img border="0" alt="Northrop Grumman" images/ng.png">
+    <img border="0" alt="Northrop Grumman" src="/images/ng.png">
   </a>
 </p>
 
