@@ -27,4 +27,4 @@ This video opens a bitmap image of an apple. Due to the layout of a bitmap file 
 
 <br>
 
-<a href='/index'>Back</a>
+<a href='/index'>Home</a>
