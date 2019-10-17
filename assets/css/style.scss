@@ -65,8 +65,8 @@ header h1 {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: $info-blue;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(2, 117, 216, 0.1),
-               0 0 10px rgba(2, 117, 216, 0.1);
+               0 0 5px rgba(91, 192, 222, 0.1),
+               0 0 10px rgba(91, 192, 222, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
 }
@@ -105,8 +105,8 @@ h1, h2, h3, h4, h5, h6 {
   color: $header;
   letter-spacing: -0.03em;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(2, 117, 216, 0.1),
-               0 0 10px rgba(2, 117, 216, 0.1);
+               0 0 5px rgba(91, 192, 222, 0.1),
+               0 0 10px rgba(91, 192, 222, 0.1);
 }
 
 #main_content h1 {
