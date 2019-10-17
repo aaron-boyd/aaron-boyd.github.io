@@ -12,10 +12,10 @@ Rangemaster is monolithic cyber range application written in python. It utilizes
 
 ---
 
-- QEMU/KVM
+- Virtualization
 - Libvirt
 - Python
-- SQLAlchemy
+- Object Relational Mapping (ORM)
 - SSH
 
 
