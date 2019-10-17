@@ -7,30 +7,24 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 ## Experience
 
 <p>
-  <a href="/northropgrumman">
+  <a href="/experience/northrop_grumman">
     <img border="0" alt="Northrop Grumman" images/ng.png">
   </a>
 </p>
-
-#### Northrop Grumman - Cyber Software COOP (Fall 2018)
-- Worked with a development team for internal software development
-
-#### Northrop Grumman - Cyber Software COOP (Summer 2019)
-- Gained experience in working on government software contracts
 
 ---
 
 ## Projects
 
 <p>
-  <a href="/range_master">
-    <img border="0" alt="Rangemaster" src="/images/range_master_ascii_art.png">
+  <a href="/projects/range_master">
+    <img border="0" alt="Rangemaster" src="/images/range.png">
   </a>
 </p>
 
 <p>
-  <a href="/corvus">
-    <img border="0" alt="Corvus" src="/images/corvus_ascii_art.png">
+  <a href="/projects/corvus">
+    <img border="0" alt="Corvus" src="/images/corvus.png">
   </a>
 </p>
 
@@ -39,10 +33,15 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 ## Involvement/Leadership
 
 <p>
-  <a href="/catise">
-    <img border="0" alt="CATiSE" src="/images/catise_ascii_art.png">
+  <a href="/involvement/catise">
+    <img border="0" alt="CATiSE" src="/images/catise.png">
   </a>
 </p>
 
+<p>
+  <a href="/involvement/cyberatuc">
+    <img border="0" alt="Cyber@UC" src="/images/cyberatuc.png">
+  </a>
+</p>
 
 ---
