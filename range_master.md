@@ -24,7 +24,7 @@ Rangemaster is monolithic cyber range application written in python. It utilizes
 ---
 
 1216 x 508
-<img src="/images/range_master_demo.png" alt="Rangemaster command examples" width="800" height="400"> 
+<img src="/images/range_master_demo.png" alt="Rangemaster command examples" width="800" height="334"> 
 
 Rangemaster uses `silos` which act as a storage container for virtual machine images and `servers` to run those images.  
 
