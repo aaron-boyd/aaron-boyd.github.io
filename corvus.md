@@ -24,3 +24,7 @@ This video opens a 64 bit binary executable. The 'cube' in the center is an indi
 </video>
 
 This video opens a bitmap image of an apple. Due to the layout of a bitmap file the resulting 3D and 2D plots have very dramatic triangular shapes. The heat map on the left also has characteristic checkerboard shapes.
+
+<br>
+
+<a href='/index'>Back</a>
