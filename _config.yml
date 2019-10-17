@@ -3,5 +3,5 @@ logo: "images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   University of Cincinnati<br>Computer Science Class of 2022
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
