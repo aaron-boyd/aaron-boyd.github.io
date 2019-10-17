@@ -22,7 +22,7 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 [Corvus](/corvus)
 <img src="images/range_master_ascii_art.png?raw=true"/>
 
-[LED Alarm Clock](/led_alarm_clock)
+[Light Alarm](/light_alarm)
 <img src="images/range_master_ascii_art.png?raw=true"/>
 
 ---
