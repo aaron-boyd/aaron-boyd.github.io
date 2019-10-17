@@ -52,7 +52,7 @@ li {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
+  border-bottom: 1px dashed $info-blue; //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
@@ -63,7 +63,7 @@ header h1 {
   margin: 0 0 0 -40px;
   font-weight: bold;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  color: $conifer;//$header;
+  color: $info-blue;//$header;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(2, 117, 216, 0.1),
                0 0 10px rgba(2, 117, 216, 0.1);
