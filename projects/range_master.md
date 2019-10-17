@@ -1,6 +1,6 @@
 ## $ ./rangemaster.py
 
-<a href='https://gitlab.com/cyberatuc/range-master'>View on GitLab</a>
+<a href='https://gitlab.com/cyberatuc/range-master' class="btn btn-github"><span class="icon"></span>View on GitLab</a>
 
 ### Description
 
