@@ -32,5 +32,11 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 
 ## Involvement/Leadership
 
+<p>
+  <a href="/catise">
+    <img border="0" alt="CATiSE" src="/images/catise_ascii_art.png">
+  </a>
+</p>
+
 
 ---
