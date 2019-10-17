@@ -6,6 +6,9 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 
 ### Co-op Experiences
 
+#### Northrop Grumman - Cyber Software COOP (Fall 2018, Summer 2019)
+Gained experience in working on government software contracts.
+
 ---
 
 ### Projects
