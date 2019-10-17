@@ -39,6 +39,5 @@ Your browser does not support the video tag.
 </video>
 
 <br>
-<br>
 
 <a href='/index'>Back</a>
