@@ -15,7 +15,7 @@ Rangemaster is monolithic cyber range application written in python. It utilizes
 - SSH
 
 
-### Sample Rangemaster Commands
+### Sample Commands
 
 ---
 
