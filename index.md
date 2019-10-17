@@ -24,7 +24,7 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 
 <p>
   <a href="/corvus">
-    <img border="0" alt="Corvus" src="/images/CorvusIcon.png" width="200" height="200">
+    <img border="0" alt="Corvus" src="/images/corvus_ascii_art.png">
   </a>
 </p>
 
