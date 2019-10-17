@@ -38,4 +38,7 @@ This video demonstrates taking a machine image `debian10.0_headless` from a silo
 Your browser does not support the video tag.
 </video>
 
-<a href='/index'>Back</a><br>
+<br>
+<br>
+
+<a href='/index'>Back</a>
