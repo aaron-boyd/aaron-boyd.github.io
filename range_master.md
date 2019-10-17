@@ -13,22 +13,23 @@ Rangemaster is monolithic cyber range application written in python. It utilizes
 - Python
 - SQLAlchemy
 - SSH
- 
- ### Sample Rangemaster Commands
- 
- ---
- 
+
+
+### Sample Rangemaster Commands
+
+---
+
 ![Rangemaster commands](/images/range_master_demo.png "Rangemaster commands")
- 
- Rangemaster uses `silos` which act as a storage container for virtual machine images and `servers` to run those images.  
- 
- ### Deploying machines
- 
- ---
- 
- This video demonstrates taking a machine image `debian10.0_headless` from a silo and deploying it on a server.
- 
- <video width='1032' height='980' autoplay>
-   <source src="videos/range_master_demo_deploy.mp4" type="video/mp4">
-   Your browser does not support the video tag.
- </video>
+
+Rangemaster uses `silos` which act as a storage container for virtual machine images and `servers` to run those images.  
+
+### Deploying machines
+
+---
+
+This video demonstrates taking a machine image `debian10.0_headless` from a silo and deploying it on a server.
+
+<video width='1032' height='980' autoplay>
+<source src="videos/range_master_demo_deploy.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
