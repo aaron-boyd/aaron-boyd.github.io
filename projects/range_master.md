@@ -1,4 +1,4 @@
-# $ ./rangemaster.py
+## $ ./rangemaster.py
 
 <a href='https://gitlab.com/cyberatuc/range-master'>View on GitLab</a>
 
