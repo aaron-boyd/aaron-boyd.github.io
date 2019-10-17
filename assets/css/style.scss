@@ -1,7 +1,6 @@
 ---
 ---
 
-
 @import "rouge-base16-dark";
 @import "default_colors";
 
@@ -255,3 +254,5 @@ a {
 .cf {
   zoom:1;
 }
+
+@import {{ site.theme }};
