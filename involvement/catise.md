@@ -8,9 +8,11 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 
 ## Project SnowShoe
 
----
+<br>
 
 ### Mission
+
+---
 
 **Goal**: Measure atmospheric conditions to test the lsurvivability for Carl, the house-flying protagonist of Pixar’s production Up.
 
