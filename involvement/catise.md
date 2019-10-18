@@ -2,6 +2,8 @@
 
 As a member of CubeCats CATiSE program, Aaron has completed a successful high altitude balloon mission, codenamed SnowShoe, with a team of other students. Aaron was a member of the radio communications team and lead the software and payload team. He joined CATiSE with the goal of making friends and learning useful industry skills. Since graduating from the program he has remained a mentor to other freshman students during their missions. Aaron uses his past mission experience as a mentor for the students as they build and program their payloads for missions. He currently works with the software and payload team who are programming a drone to be dropped from 80,000 feet and "glide home".
 
+---
+
 ## Project SnowShoe
 
 ### Mission
@@ -9,7 +11,9 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 ---
 
 **Goal**: Measure atmospheric conditions to test the lsurvivability for Carl, the house-flying protagonist of Pixar’s production Up.
+
 **Status**: SUCCESS
+
 **Location**: RECOVERED
 
 ### Payload
@@ -46,12 +50,16 @@ Below are images of the path taken by Project SnowShoe during its flight.
 
 ### Pictures
 
+---
+
 ![SnowShoe High Up](/images/snowshoe_high_up.png "SnowShoe High Up")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iRbTw9zGBd4?start=20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="711" height="400" src="https://www.youtube.com/embed/iRbTw9zGBd4?start=20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 ### Personal Accomplishments
+
+---
 
 - Developed a functioning sensor suite to measure various atmospheric conditions
 - Developed a communications system to transmit sensor data to the ground
