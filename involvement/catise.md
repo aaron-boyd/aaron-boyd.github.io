@@ -16,6 +16,18 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 
 **Location**: RECOVERED
 
+<br>
+
+### Personal Accomplishments
+
+---
+
+- Developed a functioning sensor suite to measure various atmospheric conditions
+- Developed a communications system to transmit sensor data to the ground
+- Learned to lead a team of engineers towards a common goal
+
+<br>
+
 ### Payload
 
 ---
@@ -47,9 +59,6 @@ Project SnowShoe contained a RaspberryPi as its heart which allowed the team to 
 
 ---
 
-Below are images of the path taken by Project SnowShoe during its flight.
-
-![SnowShoe Google Path](/images/snowshoe_path.png "SnowShoe Google Path")
 ![SnowShoe Google Earth Path](/images/snowshoe_google_earth.png "SnowShoe Google Earth Path")
 
 <br>
@@ -62,13 +71,3 @@ Below are images of the path taken by Project SnowShoe during its flight.
 
 <iframe width="711" height="400" src="https://www.youtube.com/embed/iRbTw9zGBd4?start=20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-
-<br>
-
-### Personal Accomplishments
-
----
-
-- Developed a functioning sensor suite to measure various atmospheric conditions
-- Developed a communications system to transmit sensor data to the ground
-- Learned to lead a team of engineers towards a common goal
