@@ -7,11 +7,11 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 
 <br>
 
-## Project SnowShoe
+### Project SnowShoe
 
 <br>
 
-### Mission
+#### Mission
 
 ---
 
@@ -23,7 +23,7 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 
 <br>
 
-### Personal Accomplishments
+#### Personal Accomplishments
 
 ---
 
@@ -33,7 +33,7 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 
 <br>
 
-### Payload
+#### Payload
 
 ---
 
@@ -43,7 +43,7 @@ Project SnowShoe contained a RaspberryPi as its heart which allowed the team to 
 
 <br>
 
-### Accomplishments
+#### Accomplishments
 
 ---
 
@@ -56,7 +56,7 @@ Project SnowShoe contained a RaspberryPi as its heart which allowed the team to 
 
 <br>
 
-### Path
+#### Path
 
 ---
 
@@ -64,7 +64,7 @@ Project SnowShoe contained a RaspberryPi as its heart which allowed the team to 
 
 <br>
 
-### Pictures
+#### Pictures
 
 ---
 
