@@ -53,3 +53,15 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 </p>
 
 <br>
+
+## Strengths
+
+---
+
+<p>
+  <a href="/strengths">
+    <img border="0" alt="Cyber@UC" src="/images/strengths.png">
+  </a>
+</p>
+
+<br>
