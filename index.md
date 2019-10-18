@@ -1,10 +1,14 @@
 ## $ whoami
 
-Aaron Boyd is a third-year student at the University of Cincinnati pursuing a degree in Computer Science. He is interested in pursuing a career in the defense industry performing cybersecurity work. He is an active member of Cyber@UC, a student-led organization with the goal of spreading cybersecurity information. He is also a member of CubeCats, an on-campus organization with the purpose of launching cube satellites.
-
 ---
 
+Aaron Boyd is a third-year student at the University of Cincinnati pursuing a degree in Computer Science. He is interested in pursuing a career in the defense industry performing cybersecurity work. He is an active member of Cyber@UC, a student-led organization with the goal of spreading cybersecurity information. He is also a member of CubeCats, an on-campus organization with the purpose of launching cube satellites.
+
+<br>
+
 ## Experience
+
+---
 
 <p>
   <a href="/experience/northrop_grumman">
@@ -12,9 +16,11 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
   </a>
 </p>
 
----
+<br>
 
 ## Projects
+
+---
 
 <p>
   <a href="/projects/range_master">
@@ -28,9 +34,11 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
   </a>
 </p>
 
----
+<br>
 
 ## Involvement
+
+---
 
 <p>
   <a href="/involvement/catise">
@@ -44,4 +52,4 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
   </a>
 </p>
 
----
+<br>
