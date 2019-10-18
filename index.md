@@ -4,6 +4,12 @@
 
 Aaron Boyd is a third-year student at the University of Cincinnati pursuing a degree in Computer Science. He is interested in pursuing a career in the defense industry performing cybersecurity work. He is an active member of Cyber@UC, a student-led organization with the goal of spreading cybersecurity information. He is also a member of CubeCats, an on-campus organization with the purpose of launching cube satellites.
 
+<p>
+  <a href="/strengths">
+    <img border="0" alt="Cyber@UC" src="/images/strengths.png">
+  </a>
+</p>
+
 <br>
 
 ## Experience
@@ -49,18 +55,6 @@ Aaron Boyd is a third-year student at the University of Cincinnati pursuing a de
 <p>
   <a href="/involvement/cyberatuc">
     <img border="0" alt="Cyber@UC" src="/images/cyberatuc.png">
-  </a>
-</p>
-
-<br>
-
-## Strengths
-
----
-
-<p>
-  <a href="/strengths">
-    <img border="0" alt="Cyber@UC" src="/images/strengths.png">
   </a>
 </p>
 
