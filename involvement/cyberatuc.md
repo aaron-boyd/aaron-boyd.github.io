@@ -2,7 +2,7 @@
 
 As a member of Cyber@UC, Aaron has taken the role of "Head of Lab". He leads weekly events where students can come to get hands on experience with cyber security related material. He also contributes to weekly content meetings where students come to learn about new cyber topics. As a club executive, Aaron, attends organizational planning meetings to discuss future club content meetings, outreach events, lab events, and member recruitement. Aaron also participates in outreach events at local highschools where Cyber@UC teachs students about cyber seciurity fundamentals. As a member, Aaron has learned about a variety of cyber security topics and gained experience in teaching fellow members how to perform certain cyber security tasks
 
-## Previous Lab Events
+### Previous Lab Events
 
 ---
 
@@ -14,7 +14,7 @@ As a member of Cyber@UC, Aaron has taken the role of "Head of Lab". He leads wee
 
 <br>
 
-## Outreach
+### Outreach
 
 ---
 
@@ -34,7 +34,7 @@ As a member of Cyber@UC, Aaron has taken the role of "Head of Lab". He leads wee
 
 <br>
 
-## Personal Achievements
+### Personal Achievements
 
 ---
 
