@@ -46,11 +46,7 @@ Project SnowShoe contained a RaspberryPi as its heart which allowed the team to 
 - Transmitted 621 data packets
 - Stayed in flight for almost eight hours
 - Reached a maximum altitude of 89,096 feet
-- Traversing four states:
-    1. Indiana
-    2. Ohio
-    3. West Virginia
-    4. Pennsylvania
+- Traversed four states (Indiana, Ohio, West Virginia, Pennsylvania)
 - Confirmed that Carl would have perished
 
 <br>
