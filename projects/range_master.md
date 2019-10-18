@@ -2,7 +2,7 @@
 
 <a href='https://gitlab.com/cyberatuc/range-master' class="btn btn-github"><span class="icon"></span>View on GitLab</a>
 
-Rangemaster is monolithic cyber range application written in python. It utilizes the SSH protocol to communicate between different servers to deploy and configure virtual machine networks. I lead the development of this application with a small team from Cyber@UC. We plan to deploy it on our lab servers to provide an educational enviornment for students. This will provide students the ability to get hands on experience in cyber operations. Rangemaster will have the capabilities to create entirely simulated  network enviornments which allows students to defend and attack machines in a safe virtualized enviornment. 
+Rangemaster is monolithic cyber range application written in python. It utilizes the SSH protocol to communicate between different servers to deploy and configure virtual machine networks. Aaron works in a small development team with other members of Cyber@UC. They plan to deploy Rangemaster on their lab servers to provide an educational enviornment for students. This will provide the ability to get hands on experience in cyber operations. Rangemaster will have the capabilities to create entirely simulated  network enviornments that allows students to defend and attack machines in a safe virtualized enviornment. Through the development of this tool Aaron has learned how to implement large scale command line driven python programs and manage a virtualization stack over SSH.
 
 ### Technologies
 
