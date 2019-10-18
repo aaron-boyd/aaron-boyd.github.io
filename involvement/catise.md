@@ -1,14 +1,16 @@
 # CATiSE
 
+---
+
 As a member of CubeCats CATiSE program, Aaron has completed a successful high altitude balloon mission, codenamed SnowShoe, with a team of other students. Aaron was a member of the radio communications team and lead the software and payload team. He joined CATiSE with the goal of making friends and learning useful industry skills. Since graduating from the program he has remained a mentor to other freshman students during their missions. Aaron uses his past mission experience as a mentor for the students as they build and program their payloads for missions. He currently works with the software and payload team who are programming a drone to be dropped from 80,000 feet and "glide home".
 
----
+<br>
 
 ## Project SnowShoe
 
-### Mission
-
 ---
+
+### Mission
 
 **Goal**: Measure atmospheric conditions to test the lsurvivability for Carl, the house-flying protagonist of Pixar’s production Up.
 
