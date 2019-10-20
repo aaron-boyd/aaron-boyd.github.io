@@ -17,7 +17,7 @@ During Aaron's time at the University of Cincinnati, he has sought out to surrou
 
 ---
 
-During the development of ![Rangemaster](/content/projects/rangemaster)
+During the development of [Rangemaster](/content/projects/rangemaster)
 
 ### Learner
 
