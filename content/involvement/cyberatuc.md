@@ -30,7 +30,7 @@ As a member of Cyber@UC, Aaron has taken the role of "Head of Lab". He leads wee
 ### GE Aviation SOC Visit
 - Visit GE Aviation with other members to view and discuss their security operations center (SOC)
 
-![GE SOC Visit](/images/ge_soc_visit.jpg "GE SOC Visit")
+![GE SOC Visit](/content/images/ge_soc_visit.jpg "GE SOC Visit")
 
 <br>
 
