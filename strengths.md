@@ -4,7 +4,8 @@
 
 ---
 
-In Aaron's last coop is Northrop Grumman he achieved the accolade of "Top Performer". This means he performed in the top 10% of interns company-wide. Aaron believes this strength will keep him moving when work is dull and push him to succeed when work is difficult.
+In Aaron's last coop is Northrop Grumman he achieved the accolade of "Top Performer". This means he performed in the top 10% of interns company-wide. Aaron believes this strength will keep him moving when work is dull and push him to succeed when work is difficult.Google
+
 
 ### Maximizer
 
@@ -15,6 +16,8 @@ During Aaron's time at the University of Cincinnati, he has sought out to surrou
 ### Futuristic
 
 ---
+
+During the development of ![Rangemaster](/projects/rangemaster)
 
 ### Learner
 
