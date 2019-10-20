@@ -33,7 +33,7 @@
 ---
 
 <p>
-  <a href="/projects/range_master">
+  <a href="/projects/rangemaster">
     <img border="0" alt="Rangemaster" src="/images/range.png">
   </a>
 </p>
