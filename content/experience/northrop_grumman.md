@@ -1,3 +1,5 @@
+## Northrop Grumman Corporation
+
 #### Cyber Software COOP (Fall 2018)
 
 ---
