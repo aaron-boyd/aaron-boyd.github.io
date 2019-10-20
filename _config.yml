@@ -4,7 +4,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   University of Cincinnati<br>
   Computer Science Class of 2022<br>
   Contact: boyda7@mail.uc.edu<br>
-  <a href='pdf/Aaron_Boyd_Resume.pdf'>Resume</a><br>
-  
+  <p>
+  <a href="pdf/Aaron_Boyd_Resume.pdf">
+    <img border="0" alt="Resume" src="/images/resume.png">
+  </a>
+  </p>
+
 theme: jekyll-theme-hacker
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
