@@ -37,14 +37,13 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 
 ---
 
-Project SnowShoe contained a RaspberryPi as its heart which allowed the team to pull in temperature, humidity, radiation, O<sub>2</sub> concentration, pressure, and ultra violet intensity. This data was sent over to a Arduino based communications system and sent over the Automatic Packet Reporting System (APRS).
-
 <p>
   <a>
-    <img border="0" style="height:50%;" alt="SnowShoe Sensors" src="/content/images/snowshoe_sensors.png">
+    <img border="0" alt="SnowShoe Sensors" src="/content/images/snowshoe_sensors.png">
   </a>
-</p>
+</p><br>
 
+Project SnowShoe contained a RaspberryPi as its heart which allowed the team to pull in temperature, humidity, radiation, O<sub>2</sub> concentration, pressure, and ultra violet intensity. This data was sent over to a Arduino based communications system and sent over the Automatic Packet Reporting System (APRS).
 
 <br>
 
