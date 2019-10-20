@@ -3,7 +3,7 @@
 
 ---
 
-As a member of CubeCats CATiSE program, Aaron has completed a successful high altitude balloon mission, codenamed SnowShoe, with a team of other students. Aaron was a member of the radio communications team and lead the software and payload team. He joined CATiSE with the goal of making friends and learning useful industry skills. Since graduating from the program he has remained a mentor to other freshman students during their missions. Aaron uses his past mission experience as a mentor for the students as they build and program their payloads for missions. He currently works with the software and payload team who are programming a drone to be dropped from 80,000 feet and "glide home".
+As a member of CubeCats CATiSE program, Aaron has completed a successful high altitude balloon mission, codenamed SnowShoe, with a team of other students. Aaron was a member of the radio communications team and lead the software and payload team. He joined CATiSE to make friends and learn useful industry skills. Since graduating from the program he has remained a mentor to other freshman students during their missions. Aaron uses his past mission experience as a mentor for the students as they build and program their payloads for missions. He currently works with the software and payload team who are programming a drone to be dropped from 80,000 feet and "glide home".
 
 <br>
 
@@ -15,7 +15,7 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
 
 ---
 
-**Goal**: Measure atmospheric conditions to test the lsurvivability for Carl, the house-flying protagonist of Pixar’s production Up.
+**Goal**: Measure atmospheric conditions to test the survivability for Carl, the house-flying protagonist of Pixar’s production Up.
 
 **Status**: SUCCESS
 
@@ -43,7 +43,7 @@ As a member of CubeCats CATiSE program, Aaron has completed a successful high al
   </a>
 </p>
 
-Project SnowShoe contained a RaspberryPi as its heart which allowed the team to pull in temperature, humidity, radiation, O<sub>2</sub> concentration, pressure, and ultra violet intensity. This data was sent over to a Arduino based communications system and sent over the Automatic Packet Reporting System (APRS).
+Project SnowShoe contained a RaspberryPi as its heart which allowed the team to pull in temperature, humidity, radiation, O<sub>2</sub> concentration, pressure, and ultraviolet intensity. This data was sent over to an Arduino based communications system and sent over the Automatic Packet Reporting System (APRS).
 
 <br>
 
@@ -51,7 +51,7 @@ Project SnowShoe contained a RaspberryPi as its heart which allowed the team to 
 
 ---
 
-- Maintained communicatin with the ground team through the whole mission
+- Maintained communication with the ground team through the whole mission
 - Transmitted 621 data packets
 - Stayed in flight for almost eight hours
 - Reached a maximum altitude of 89,096 feet
