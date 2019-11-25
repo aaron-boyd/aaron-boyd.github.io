@@ -20,7 +20,7 @@ Rangemaster is a monolithic cyber range application written in python. It utiliz
 
 ![Rangemaster command examples](/content/images/range_master_demo.png "Rangemaster commande examples")
 
-Rangemaster uses silos which act as a storage container for virtual machine images and servers to run those images. From the output above it can be seen there is one silo and one hypervisor server configured in rangemaster. There is a 'debian10.0_headless' machine on 'silo_1'. Hypervisor 'server_1' also has two networks on it, 'default' and 'aaronnet' 
+Rangemaster uses silos which act as a storage container for virtual machine images and servers to run those images. From the output above it can be seen there is one silo and one hypervisor server configured in rangemaster. There is a 'debian10.0_headless' machine on 'silo_1'. Hypervisor 'server_1' also has two networks on it, 'default' and 'aaronnet'.
 
 ### Deploying machines
 
