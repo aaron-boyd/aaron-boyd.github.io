@@ -8,12 +8,6 @@
   </a>
 </p>
 
-<p>
-  <a href="/content/whoami/strengths">
-    <img border="0" alt="Cyber@UC" src="/content/images/strengths.png">
-  </a>
-</p>
-
 <br>
 
 ## Experience
