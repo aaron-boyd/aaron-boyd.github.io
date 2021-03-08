@@ -3,6 +3,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   University of Cincinnati<br>
   Computer Science Class of 2022<br>
   Contact: boyda7@mail.uc.edu<br>
+  <a href="https://gitlab.com/aaron-boyd">GitLab</a>
   <a href="https://github.com/aaron-boyd">GitHub</a>
   <a href="/content/pdf/Aaron_Boyd_Resume.pdf">Resume</a>
 
