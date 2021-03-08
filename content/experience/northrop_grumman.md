@@ -6,7 +6,7 @@
 
 - Worked with a development team for internal software development
 
-#### Cyber Software COOP (Summer 2019)
+#### Cyber Software COOP (Summer 2019, Spring 2020, Fall 2020)
 
 ---
 
