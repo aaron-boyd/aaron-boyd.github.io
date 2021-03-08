@@ -45,14 +45,14 @@
 ---
 
 <p>
-  <a href="/content/involvement/catise">
-    <img border="0" alt="CATiSE" src="/content/images/catise.png">
+  <a href="/content/involvement/cyberatuc">
+    <img border="0" alt="Cyber@UC" src="/content/images/cyberatuc.png">
   </a>
 </p>
 
 <p>
-  <a href="/content/involvement/cyberatuc">
-    <img border="0" alt="Cyber@UC" src="/content/images/cyberatuc.png">
+  <a href="/content/involvement/catise">
+    <img border="0" alt="CATiSE" src="/content/images/catise.png">
   </a>
 </p>
 
